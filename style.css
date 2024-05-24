@@ -373,13 +373,13 @@ article .icon {
 
 .project-description {
     margin: 1rem;
-    font-size: 0.70rem;
+    font-size: 0.80rem;
     color: rgb(53, 53, 53);
 }
 
 .project-authors{
     margin: 1rem;
-    font-size: 0.70rem;
+    font-size: 0.80rem;
     color: rgb(53, 53, 53);     
 }
 
@@ -394,7 +394,7 @@ article .icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 100vh;
+    height: 130vh;
 }
 
 .contact-info-upper-container {
