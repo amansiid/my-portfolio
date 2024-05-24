@@ -371,6 +371,18 @@ article .icon {
     color: black;
 }
 
+.project-description {
+    margin: 1rem;
+    font-size: 0.70rem;
+    color: rgb(53, 53, 53);
+}
+
+.project-authors{
+    margin: 1rem;
+    font-size: 0.70rem;
+    color: rgb(53, 53, 53);     
+}
+
 .project-btn {
     color: black;
     border-color: rgb(163, 163, 163);
@@ -382,7 +394,7 @@ article .icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 70vh;
+    height: 100vh;
 }
 
 .contact-info-upper-container {
