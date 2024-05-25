@@ -70,6 +70,12 @@
         font-size: 1rem;
         flex-wrap: wrap;
     }
+    .btn-langs {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+    }
     .project-authors {
         font-size: 1rem;
         flex-wrap: wrap;
