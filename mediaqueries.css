@@ -42,6 +42,7 @@
 @media screen and (max-width: 599px) {
     #contact, footer {
         height: 40vh;
+        bottom: 0;
     }
     #profile {
         height: 83vh;
@@ -52,7 +53,7 @@
     }
     footer nav {
         height: fit-content;
-        margin-bottom: 2rem;
+        margin-bottom: 8rem;
     }
     .about-containers, .contact-info-upper-container, .btn-container{
         flex-wrap: wrap;
