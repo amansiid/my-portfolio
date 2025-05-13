@@ -37,6 +37,9 @@
     .about-containers {
         margin-top: 0;
     }
+    .section__text {
+        padding: 2rem;
+    }
 }
 
 @media screen and (max-width: 599px) {
@@ -45,7 +48,7 @@
         bottom: 0;
     }
     #profile {
-        height: 83vh;
+        height: 75vh;
         margin-bottom: 0;
     }
     article {
@@ -91,7 +94,7 @@
     }
     .section__pic-container {
         width: auto;
-        height: 46vw;
+        height: 33vw;
         justify-content: center;
     }
     .section__text__p2 {
